@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">LearningApp</string>
+    <string name="IIITD">Indraprastha Institute of Information Technology Delhi</string>
+    <string name="Proceed">Proceed</string>
+    <string name="about">About IIITD</string>
+    <string name="programs">Available Programs</string>
+    <string name="admission">How to take admission at UG level</string>
+    <string name="hindi">Hindi</string>
+    <string name="english">English</string>
+    <string name="title_activity_show_details">ShowDetailsActivity</string>
+    <string name="large_text_about">
+      "Indraprastha Institute of Information Technology, Delhi (aka. IIIT-Delhi or IIIT-D) was created as a State University by an act of Delhi Government (The IIIT Delhi Act, 2007) empowering it to do research and development and grant degrees. IIIT-Delhi was officially established on 10th June, 2008 as per this notification in the Delhi Gazette. First class (for BTech(CSE) students) was held on 8th September, 2008.\n"
+        "The institute began with its first batch of 60 BTech students in 2008. This first batch graduated in 2012 - the first Convocation took place in November, 2012. By that time, the institute has attracted nearly 30 faculty members, and its academic program consisted of B.Tech., M.Tech. and Ph.D. programs in CSE and ECE. In a relatively short time, it has earned a good reputation in India and abroad for being a center of quality education and research in IT. 2012 turned out be more remarkable year because during the summer of this year, the institute started functioning from its permanent campus in Okhla. Smt. Sheila Dikshit, Chief Minister of Delhi, inaugurated the campus in October, 2012.\n\n"
+
+        "The early days of this institute was chronicled by the founding and current Director in his blog here. See below for a list of all the major events of the institute so far.\n"
+
+        "\nThe mission of IIIT-Delhi is to be a global centre of excellence in Information Technology education, training and research. Its twin aims are:\n"
+
+        "1. To carry out advanced research and development in information and software technologies, and in leveraging IT in specific domain areas.\n\n"
+
+        "2. To train and educate, at both undergraduate and postgraduate levels, engineers of outstanding ability who can become innovators and new product creators.\n\n"
+
+        "It aims to encourage innovation and entrepreneurship in specified domain areas of IT. Towards this end it plans to organize itself as a conglomerate of RnD Centers, some of which would be in partnership with different companies and global organizations. All centers will also be engaged in teaching and thesis guidance. These centers, with various labs, will be the hub of activity, with active contribution from faculty and students—BTech, MTech and PhD.\n\n"
+
+
+    </string>
+    <string name="large_text_program">
+        "The institute offers following programs:\n\n"
+
+
+        "B.Tech\n"
+        "Following programs are offered:\n\n"
+
+        "1. Computer Science and Engineering (CSE)\n"
+        "2. Electronics and Communications Engineering (ECE)\n"
+        "3. Computer Science and Applied Mathematics (CSAM)\n"
+        "4. Computer Science and Design (CSD)\n"
+        "5. Information Technology and Social Sciences (ITSS)\n"
+
+
+        "\n\nM.Tech\n"
+        "Following programs are offered:\n\n"
+
+        "Computer Science and Engineering (CSE)\n"
+        "Electronics and Communications Engineering (ECE)\n"
+        "Computational Biology (CB)\n"
+
+        "\n\nPhD\n"
+        "Following programs are offered:\n\n"
+
+        "Computer Science and Engineering (CSE)\n"
+        "Electronics and Communications Engineering (ECE)\n"
+        "Computational Biology (CB)\n"
+        "Mathematics (Maths)\n"
+
+        "\n\nFor admission details, please check the admissions section.\n"
+    </string>
+    <string name="large_text_admission">
+        "B.Tech Admissions 2017 to various programs of IIIT-D will be done through Joint Admission Counselling, Delhi, UCEED Councelling (Only for some seats in CSD) and IIIT-Delhi Counselling (Only for some seats in ITSS). Details regarding the number of seats, eligibility, merit list and admission process are given in B.Tech admission brochure 2017. Admissions for foreign nationals/PIOs/NRIs will be through DASA and directly through IIIT-D process.\n\n"
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="todo">TODO</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/archivo_black</item>
+        <item>@font/assistant_extrabold</item>
+        <item>@font/caudex_bold</item>
+        <item>@font/krona_one</item>
+        <item>@font/yatra_one</item>
+        <item>@font/yrsa_light</item>
+    </array>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <string name="name">NAME</string>
+    <string name="todo">TODO</string>
+</resources>
